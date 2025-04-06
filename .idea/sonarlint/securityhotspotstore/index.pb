@@ -11,3 +11,5 @@ Q
 !contracts/stone-registration.clar,c/c/cc8b9fd7b96c7c3798d04103dac387fbac58098d
 P
  tests/stone-registration.test.ts,e/5/e50c216d683603205ddd6706cbfda91fdd70678d
+R
+"tests/treatment-disclosure.test.ts,7/b/7bfd199b07601f88d388a01b6222873b295ca159
